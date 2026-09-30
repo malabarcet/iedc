@@ -56,4 +56,5 @@
 #### 3. Hack away! you will now be able to view live updates on the open port as you make changes to the source.
 ---
 #### 4. You can submit PRs with your code and an admin will review it ASAP.
+   - Team members are advised to submit their work on a separate branch before internal review / approval.
 ---
